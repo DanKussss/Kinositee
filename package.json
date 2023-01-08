@@ -1,0 +1,28 @@
+{
+  "name": "kinosite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanKussss/Kinositee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanKussss/Kinositee/issues"
+  },
+  "homepage": "https://github.com/DanKussss/Kinositee#readme",
+  "description": ""
+}
